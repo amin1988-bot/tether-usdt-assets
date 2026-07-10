@@ -12,7 +12,7 @@
     "ethereum",
     "erc20"
   ],
-  "logoURI": "https://raw.githubusercontent.com/amin1988-bot/tether-usdt-assets/refs/heads/main/Logo.png",
+  "logoURI": "https://raw.githubusercontent.com/amin1988-bot/tether-usdt-assets/main/Logo.png",
   "tokens": [
     {
       "chainId": 1,
@@ -20,7 +20,7 @@
       "name": "Tether USDT",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/amin1988-bot/tether-usdt-assets/refs/heads/main/Logo.png"
+      "logoURI": "https://raw.githubusercontent.com/amin1988-bot/tether-usdt-assets/main/Logo.png"
     }
   ]
 }
