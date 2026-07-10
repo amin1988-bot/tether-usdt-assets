@@ -1,0 +1,26 @@
+{
+  "name": "Tether USDT Token List",
+  "timestamp": "2026-07-10T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "keywords": [
+    "tether",
+    "usdt",
+    "ethereum",
+    "erc20"
+  ],
+  "logoURI": "https://raw.githubusercontent.com/amin1988-bot/tether-usdt-assets/refs/heads/main/Logo.png",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x596597498Db0533e41eF012f688F12dF76a3BF3a",
+      "name": "Tether USDT",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/amin1988-bot/tether-usdt-assets/refs/heads/main/Logo.png"
+    }
+  ]
+}
